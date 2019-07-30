@@ -1,0 +1,7 @@
+01:26:01.632 [main] TRACE io.github.bonigarcia.wdm.WebDriverManager - Using preferences true
+01:26:01.635 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference found chrome75=75.0.3770.8 (valid until 2019-07-24 01:25:33)
+01:26:01.635 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 75.0.3770.8 (since Google Chrome 75 is installed in your machine)
+01:26:01.635 [main] TRACE io.github.bonigarcia.wdm.WebDriverManager - Managing chromedriver arch=64 version=75.0.3770.8 getLatest=false cache=false
+01:26:01.635 [main] TRACE io.github.bonigarcia.wdm.WebDriverManager - Checking if chromedriver exists in cache
+01:26:01.636 [main] TRACE io.github.bonigarcia.wdm.Downloader - Target path C:\Users\Berdy/.m2/repository/webdriver
+01:26:01.639 [main] TRACE io.github.bonigarcia.wdm.WebDriverManager - Filter cache by chromedriver -- input list [C:\Users\Berdy\.m2\repository\webdriver\chromedriver\win32\75.0.3770.8\chromedriver.exe, C:\Users\Berdy\.m2\repository\webdriver\geckodriver\win64\0.24.0\geckodriver.exe] -- output list [C:\Users\Berdy\.m2\repository\webdriver\chromedriver\win32\75.0.3770.8\chromedriver.exe] 
