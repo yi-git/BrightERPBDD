@@ -1,0 +1,4 @@
+StepDefinitions\PointOfSalesSteps.class
+StepDefinitions\Hooks.class
+Options\TestRunner.class
+StepDefinitions\loginSteps.class

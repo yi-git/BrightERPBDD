@@ -1,0 +1,6 @@
+pages\TopMenu.class
+pages\LoginPage.class
+pages\PointOfSalePage.class
+resources\Listeners.class
+base\Base.class
+resources\ExtentReporterNG.class
